@@ -19,3 +19,12 @@ img {
     padding-left: 20px;
     margin-right: 360px;
 }
+
+.ingredients-box-01 {
+    border: 2px solid black;
+    margin-right: 500px;
+}
+
+.steps-box-01 {
+    border: 2px solid black;
+}
