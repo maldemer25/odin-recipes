@@ -9,3 +9,7 @@ h1 {
 .container01 {
     margin-left: 500px;
 }
+
+img {
+    border-radius: 10%;
+}
