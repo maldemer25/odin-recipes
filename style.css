@@ -17,14 +17,31 @@ img {
 .description-box-01 {
     border: 2px solid black;
     padding-left: 20px;
-    margin-right: 360px;
+    overflow-wrap: break-word;
 }
 
 .ingredients-box-01 {
     border: 2px solid black;
-    margin-right: 500px;
+    overflow-wrap: break-word;
 }
 
 .steps-box-01 {
     border: 2px solid black;
+    overflow-wrap: break-word;
+}
+
+.ingredients-box-01,
+ul,
+li {
+    background-color: aliceblue;
+}
+
+.steps-box-01,
+ol {
+    background-color: aliceblue;
+}
+
+.description-box-01,
+p {
+    background-color: aliceblue;
 }
