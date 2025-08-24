@@ -13,3 +13,9 @@ h1 {
 img {
     border-radius: 10%;
 }
+
+.description-box-01 {
+    border: 2px solid black;
+    padding-left: 20px;
+    margin-right: 360px;
+}
